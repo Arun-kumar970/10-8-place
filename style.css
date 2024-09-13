@@ -1,0 +1,12 @@
+.bold-text {
+    text-align: left;
+   
+    font-family: sans-serif;
+    line-height: 5px; 
+    font-size: 40px;
+}
+
+
+*{
+    box-sizing: border-box;
+}
